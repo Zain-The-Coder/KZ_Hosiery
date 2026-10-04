@@ -1,0 +1,123 @@
+/* ==========================================================================
+   CONTACT PAGE STYLES
+   ========================================================================== */
+
+.contact-section {
+  padding-top: 12rem;
+  padding-bottom: 8rem;
+  background-color: #ffffff;
+}
+
+.contact-header {
+  margin-bottom: 5rem;
+}
+
+.contact-label {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--clr-outline);
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.contact-title {
+  font-family: var(--ff-display);
+  font-size: 40px;
+  line-height: 48px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--clr-on-surface);
+  max-width: 500px;
+}
+
+@media (min-width: 1024px) {
+  .contact-title {
+    font-size: 56px;
+    line-height: 64px;
+  }
+}
+
+.contact-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 4rem;
+  align-items: start;
+}
+
+@media (min-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 6rem;
+  }
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-item {
+  padding-block: 1.5rem;
+  border-bottom: 1px solid var(--clr-outline-variant);
+}
+
+.contact-item:first-child {
+  padding-top: 0;
+}
+
+.contact-item__label {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--clr-outline);
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+.contact-item__value {
+  font-family: var(--ff-body);
+  font-size: 15px;
+  line-height: 24px;
+  color: var(--clr-on-surface);
+}
+
+.contact-item__value a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.contact-item__value a:hover {
+  color: var(--clr-primary);
+}
+
+.contact-btn {
+  margin-top: 2rem;
+  display: inline-block;
+  background-color: #110659;
+  color: #ffffff;
+  padding: 0.8rem 2rem;
+  font-weight: 600;
+  font-size: 14px;
+  border-radius: 2px;
+  transition: background-color 0.3s ease;
+  align-self: flex-start;
+  text-decoration: none;
+}
+
+.contact-btn:hover {
+  background-color: var(--clr-primary);
+}
+
+.contact-image {
+  width: 100%;
+}
+
+.contact-image img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}

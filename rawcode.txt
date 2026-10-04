@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+
+<html class="scroll-smooth" lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><title>KZ Hosiery | Ocean Breeze Global Knitwear Manufacturer</title><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { "colors": { "on-background": "#071c32", "inverse-on-surface": "#eaf1ff", "primary-fixed-dim": "#b0c6ff", "on-primary": "#ffffff", "inverse-surface": "#1e3148", "primary": "#003178", "outline-variant": "#c3c6d4", "on-secondary-fixed": "#001a42", "on-surface": "#071c32", "primary-fixed": "#d9e2ff", "error-container": "#ffdad6", "surface-dim": "#c8dbf9", "on-tertiary": "#ffffff", "surface-container-highest": "#d2e4ff", "on-surface-variant": "#434652", "outline": "#737783", "surface-container-high": "#dce9ff", "on-tertiary-fixed": "#001f25", "surface": "#f8f9ff", "on-tertiary-fixed-variant": "#004e5a", "background": "#f8f9ff", "on-primary-container": "#a1bbff", "surface-container": "#e5eeff", "on-error-container": "#93000a", "surface-container-low": "#eff4ff", "surface-variant": "#d2e4ff", "on-primary-fixed": "#001945", "on-secondary-fixed-variant": "#004395", "surface-bright": "#f8f9ff", "inverse-primary": "#b0c6ff", "on-secondary-container": "#fefcff", "primary-container": "#0d47a1", "on-tertiary-container": "#14cfe9", "tertiary-fixed-dim": "#2fd9f4", "secondary-fixed-dim": "#adc6ff", "tertiary-container": "#005460", "secondary-fixed": "#d8e2ff", "secondary-container": "#2170e4", "tertiary-fixed": "#a2eeff", "error": "#ba1a1a", "secondary": "#0058be", "surface-container-lowest": "#ffffff", "on-primary-fixed-variant": "#00429c", "on-error": "#ffffff", "on-secondary": "#ffffff", "tertiary": "#003b44", "surface-tint": "#2b5bb5" }, "borderRadius": { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, "spacing": { "margin-mobile": "1.25rem", "space-xl": "2.5rem", "space-xs": "0.25rem", "space-md": "1rem", "gutter-mobile": "1rem", "space-lg": "1.5rem", "space-sm": "0.5rem", "margin": "3rem", "gutter": "1.5rem" }, "fontFamily": { "display-lg-mobile": [ "Plus Jakarta Sans" ], "body-lg": [ "Inter" ], "display-lg": [ "Plus Jakarta Sans" ], "headline-lg-mobile": [ "Plus Jakarta Sans" ], "title-lg": [ "Plus Jakarta Sans" ], "label-sm": [ "Inter" ], "title-md": [ "Inter" ], "label-md": [ "Inter" ], "body-sm": [ "Inter" ], "headline-md": [ "Plus Jakarta Sans" ], "body-md": [ "Inter" ], "headline-sm": [ "Plus Jakarta Sans" ], "headline-lg": [ "Plus Jakarta Sans" ] }, "fontSize": { "display-lg-mobile": [ "36px", { "lineHeight": "44px", "letterSpacing": "-0.015em", "fontWeight": "700" } ], "body-lg": [ "18px", { "lineHeight": "28px", "fontWeight": "400" } ], "display-lg": [ "56px", { "lineHeight": "64px", "letterSpacing": "-0.02em", "fontWeight": "700" } ], "headline-lg-mobile": [ "28px", { "lineHeight": "36px", "letterSpacing": "-0.01em", "fontWeight": "700" } ], "title-lg": [ "18px", { "lineHeight": "24px", "fontWeight": "600" } ], "label-sm": [ "11px", { "lineHeight": "14px", "letterSpacing": "0.04em", "fontWeight": "600" } ], "title-md": [ "16px", { "lineHeight": "22px", "fontWeight": "600" } ], "label-md": [ "13px", { "lineHeight": "16px", "letterSpacing": "0.02em", "fontWeight": "600" } ], "body-sm": [ "13px", { "lineHeight": "18px", "fontWeight": "400" } ], "headline-md": [ "28px", { "lineHeight": "36px", "letterSpacing": "-0.01em", "fontWeight": "600" } ], "body-md": [ "15px", { "lineHeight": "24px", "fontWeight": "400" } ], "headline-sm": [ "22px", { "lineHeight": "28px", "fontWeight": "600" } ], "headline-lg": [ "40px", { "lineHeight": "48px", "letterSpacing": "-0.015em", "fontWeight": "700" } ] } } } };</script></head><body class="bg-background font-body-md text-on-surface antialiased"><header class="fixed top-0 left-0 right-0 z-50 bg-surface/80 backdrop-blur-xl shadow-[0_4px_20px_rgba(13,71,161,0.06)]"><div class="h-20 max-w-7xl mx-auto px-6 lg:px-12 flex items-center justify-between gap-6"><div class="flex items-center gap-3 shrink-0"><img alt="KZ Hosiery Ocean Breeze Logo" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1XYpy9wKYSci3Enkxuese1tH49uQ90lg6MJcpaOXT5AkAvKCuGXhVp2j65Dfnd36aYSDDQN0pjAlOCB6v4zKp6cfQ3dZUKxo0A1tRoq-5a49w3RWBYWzuJj8USW4PNAHG-MqymifOTRsqnmoG55vp0wnZmDqK0wE4YoE6UAJOI_Rp6q-uO7PNk8__VqY_cxrxNzOQ-LijUUqWC9jTIbgaT4iBMtXkUN1Jiop4wqa4GZh5rHzGLhstV8AA"/><div class="flex flex-col"><span class="font-title-lg text-title-lg text-primary tracking-tight">KZ HOSIERY</span><span class="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-wider">Est. 1987 • Karachi</span></div></div><nav class="hidden md:flex items-center gap-1 lg:gap-2" data-active-classes="bg-primary-container text-on-primary font-title-md rounded-lg shadow-sm"><a aria-current="page" class="px-4 py-2 transition-all bg-primary-container text-on-primary font-title-md rounded-lg shadow-sm" data-path="home" href="#">Home</a><a class="px-4 py-2 rounded-lg font-title-md text-title-md text-on-surface-variant hover:text-primary hover:bg-surface-container transition-all" data-path="about" href="#">About</a><a class="px-4 py-2 rounded-lg font-title-md text-title-md text-on-surface-variant hover:text-primary hover:bg-surface-container transition-all" data-path="services" href="#">Services</a><a class="px-4 py-2 rounded-lg font-title-md text-title-md text-on-surface-variant hover:text-primary hover:bg-surface-container transition-all" data-path="capabilities" href="#">Capabilities</a><a class="px-4 py-2 rounded-lg font-title-md text-title-md text-on-surface-variant hover:text-primary hover:bg-surface-container transition-all" data-path="contact" href="#">Contact</a></nav><div class="flex items-center gap-4 shrink-0"><a class="hidden sm:inline-flex items-center justify-center px-5 py-2.5 rounded-xl font-label-md text-label-md text-on-primary bg-primary-container hover:bg-secondary-container transition-all duration-200 shadow-[0_6px_20px_rgba(13,71,161,0.25)] hover:shadow-[0_8px_24px_rgba(33,112,228,0.35)]" data-path="request-quote" href="#">Request a Quote</a><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-background"><div class="flex flex-col w-full">
+<!-- 1. HERO SECTION -->
+<section class="relative w-full -mt-20 pt-28 pb-20 lg:pb-28 overflow-hidden bg-primary-container">
+<!-- Factory Hero Background -->
+<div class="absolute inset-0 z-0">
+<img alt="KZ Hosiery garment factory floor" class="w-full h-full object-cover object-center" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-r from-primary-container/95 via-primary-container/85 to-secondary-container/80 backdrop-blur-[2px]"></div>
+<div class="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-tertiary-fixed/20 via-transparent to-transparent pointer-events-none"></div>
+</div>
+<div class="relative z-10 max-w-7xl mx-auto px-6 lg:px-12 flex flex-col justify-between h-full">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center pt-8">
+<!-- Left Hero Column -->
+<div class="lg:col-span-7 flex flex-col gap-6">
+<div class="inline-flex items-center gap-2 self-start px-3.5 py-1.5 rounded-full bg-surface-container-lowest/15 backdrop-blur-md shadow-sm">
+<span class="w-2 h-2 rounded-full bg-tertiary-fixed animate-ping"></span>
+<span class="font-label-sm text-label-sm text-tertiary-fixed tracking-wider uppercase">B2B OEM &amp; ODM KNITWEAR EXPORTER • FOB / CIF GLOBAL DELIVERIES</span>
+</div>
+<h1 class="font-display-lg text-display-lg text-on-primary tracking-tight">
+            Garments Manufacturer for Global Markets
+          </h1>
+<p class="font-body-lg text-body-lg text-surface-container-high max-w-xl leading-relaxed">
+            Exporting premium knitwear to France, UK, USA, and Spain with a production volume exceeding 100,000+ pieces per month. Precision manufacturing tailored for international retail brands.
+          </p>
+<div class="flex flex-wrap items-center gap-4 pt-2">
+<a class="px-7 py-3.5 rounded-xl bg-primary text-on-primary font-title-md text-title-md shadow-[0_0_24px_rgba(34,211,238,0.4)] hover:bg-secondary transition-all duration-200 flex items-center gap-2" data-path="request-quote" href="#">
+<span>Request a Quote</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</a>
+<a class="px-7 py-3.5 rounded-xl bg-surface-container-lowest/10 hover:bg-surface-container-lowest/20 backdrop-blur-md text-tertiary-fixed font-title-md text-title-md transition-all duration-200 flex items-center gap-2" href="#factory-tour">
+<span class="material-symbols-outlined text-[20px]">videocam</span>
+<span>See the Factory</span>
+</a>
+</div>
+</div>
+<!-- Right Floating Glass Trust Card -->
+<div class="lg:col-span-5 flex justify-end">
+<div class="w-full max-w-md rounded-2xl bg-on-background/70 backdrop-blur-xl p-7 text-on-primary shadow-[0_20px_50px_rgba(7,28,50,0.45)]">
+<div class="flex items-center justify-between pb-5">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-xl bg-tertiary-fixed/20 flex items-center justify-center text-tertiary-fixed">
+<span class="material-symbols-outlined text-[24px]">verified</span>
+</div>
+<div>
+<span class="block font-title-md text-title-md text-on-primary">Since 1987</span>
+<span class="font-label-sm text-label-sm text-tertiary-fixed">38+ Years of Industrial Craftsmanship</span>
+</div>
+</div>
+<span class="px-2.5 py-1 rounded-md bg-secondary-container/40 text-tertiary-fixed font-label-sm text-label-sm">Verified Facility</span>
+</div>
+<div class="grid grid-cols-2 gap-4 py-5">
+<div class="p-3.5 rounded-xl bg-surface-container-lowest/5">
+<span class="block font-headline-md text-headline-md text-tertiary-fixed">100,000+</span>
+<span class="font-body-sm text-body-sm text-surface-container-high mt-0.5 block">Monthly Output</span>
+</div>
+<div class="p-3.5 rounded-xl bg-surface-container-lowest/5">
+<span class="block font-headline-md text-headline-md text-tertiary-fixed">92%</span>
+<span class="font-body-sm text-body-sm text-surface-container-high mt-0.5 block">EU &amp; NA Export Share</span>
+</div>
+</div>
+<div class="pt-5 flex items-center gap-3">
+<span class="material-symbols-outlined text-tertiary-fixed text-[20px]">factory</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest">Karachi Industrial Complex, 85,000 sq ft</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Compliance Badges Strip along bottom -->
+<div class="mt-14 pt-8 flex flex-wrap items-center justify-between gap-6">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[20px]">verified_user</span>
+<span class="font-title-md text-title-md text-on-primary">OEKO-TEX® Standard 100</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[20px]">approval_delegation</span>
+<span class="font-title-md text-title-md text-on-primary">Sedex SMETA &amp; BSCI Compliant</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[20px]">workspace_premium</span>
+<span class="font-title-md text-title-md text-on-primary">ISO 9001:2015 Certified</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[20px]">eco</span>
+<span class="font-title-md text-title-md text-on-primary">Zero Discharge Hazardous (ZDHC)</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. ABOUT SECTION -->
+<section class="w-full py-24 bg-background">
+<div class="max-w-7xl mx-auto px-6 lg:px-12">
+<div class="grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+<!-- Narrative Column -->
+<div class="lg:col-span-6 flex flex-col gap-6">
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Enterprise Heritage</span>
+<h2 class="font-headline-lg text-headline-lg text-primary tracking-tight">
+            Nearly four decades of knitwear manufacturing in Pakistan.
+          </h2>
+<p class="font-body-lg text-body-lg text-on-surface-variant leading-relaxed">
+            From our vertically integrated industrial base in Korangi, Karachi, KZ Hosiery unites cutting-edge high-speed circular knitting lines, automated dye-house calibration, and rigid multi-tier finishing. We operate under rigorous worker safety charters with an absolute zero child labor guarantee.
+          </p>
+<p class="font-body-md text-body-md text-on-surface-variant leading-relaxed">
+            Our multi-generational artisans work shoulder-to-shoulder with modern automated production engineers, guaranteeing that every seam, ribbed cuff, and brushed fleece surface stands ready for premium European and North American retail shelves.
+          </p>
+<div class="pt-2">
+<a class="inline-flex items-center gap-3 font-title-md text-title-md text-secondary hover:text-primary transition-colors group" data-path="about" href="#">
+<span>More about our Karachi facilities &amp; standards</span>
+<span class="material-symbols-outlined text-[20px] transition-transform duration-200 group-hover:translate-x-1">arrow_forward</span>
+</a>
+</div>
+</div>
+<!-- Overlapping Rounded Photos -->
+<div class="lg:col-span-6 relative flex justify-center items-center">
+<!-- Back Photo -->
+<div class="w-4/5 rounded-3xl overflow-hidden shadow-xl bg-surface-container">
+<img alt="KZ Hosiery main stitching floor" class="w-full h-80 object-cover" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="p-4 bg-surface-container-low flex items-center justify-between">
+<span class="font-label-md text-label-md text-primary">Karachi High-Capacity Facility</span>
+<span class="px-2.5 py-0.5 rounded-full bg-primary-fixed text-primary font-label-sm text-label-sm">85,000 sq ft Vertical Floor</span>
+</div>
+</div>
+<!-- Front Overlapping Photo -->
+<div class="absolute -bottom-8 -left-2 sm:left-4 w-3/5 rounded-2xl overflow-hidden shadow-2xl bg-surface-container-lowest">
+<div class="relative h-48 w-full overflow-hidden">
+<img alt="Stitch integrity detail" class="w-full h-full object-cover scale-110" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary/80 to-transparent"></div>
+<div class="absolute bottom-3 left-3 right-3 text-on-primary">
+<span class="block font-title-sm text-label-md text-tertiary-fixed">Stitch Integrity</span>
+<span class="font-label-sm text-label-sm text-surface-container-lowest">AQL 1.5 Quality Standard</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 3. STATS STRIP -->
+<section class="w-full py-12 bg-surface-container-low">
+<div class="max-w-7xl mx-auto px-6 lg:px-12">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow">
+<div class="flex items-center justify-between mb-3">
+<span class="font-headline-lg text-headline-lg text-primary tracking-tight">100,000+</span>
+<span class="material-symbols-outlined text-secondary text-[24px]">local_shipping</span>
+</div>
+<span class="block font-title-md text-title-md text-on-surface">Pieces / Month</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1.5">Dispatched across scheduled sea freight and direct international air corridors.</p>
+</div>
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow">
+<div class="flex items-center justify-between mb-3">
+<span class="font-headline-lg text-headline-lg text-primary tracking-tight">1987</span>
+<span class="material-symbols-outlined text-secondary text-[24px]">history_edu</span>
+</div>
+<span class="block font-title-md text-title-md text-on-surface">Manufacturing Since</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1.5">Continuous heritage and specialized institutional knitwear expertise.</p>
+</div>
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow">
+<div class="flex items-center justify-between mb-3">
+<span class="font-headline-lg text-headline-lg text-primary tracking-tight">4 Hubs</span>
+<span class="material-symbols-outlined text-secondary text-[24px]">public</span>
+</div>
+<span class="block font-title-md text-title-md text-on-surface">Key Export Markets</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1.5">Direct customs clearance channels across France, UK, USA, &amp; Spain.</p>
+</div>
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-shadow">
+<div class="flex items-center justify-between mb-3">
+<span class="font-headline-lg text-headline-lg text-primary tracking-tight">99.4%</span>
+<span class="material-symbols-outlined text-secondary text-[24px]">task_alt</span>
+</div>
+<span class="block font-title-md text-title-md text-on-surface">On-Time Fulfillment</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-1.5">Contractual delivery reliability across all institutional B2B accounts.</p>
+</div>
+</div>
+</div>
+</section>
+<!-- 4. IMAGE SLIDER (Inside the Factory) -->
+<section class="w-full py-20 bg-background" id="factory-tour">
+<div class="max-w-7xl mx-auto px-6 lg:px-12 flex flex-col gap-6">
+<div class="flex flex-col md:flex-row md:items-end justify-between gap-4">
+<div>
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Production Infrastructure</span>
+<h2 class="font-headline-lg text-headline-lg text-primary tracking-tight mt-1">Inside the Factory</h2>
+</div>
+<span class="font-body-md text-body-md text-on-surface-variant">Continuous operational monitoring across modular sewing and finishing lines.</span>
+</div>
+<!-- Slider Container with side peek -->
+<div class="relative w-full rounded-[24px] overflow-hidden shadow-2xl bg-inverse-surface h-[440px] md:h-[520px]">
+<!-- Main Slide Image -->
+<img alt="Cutting Department automated CAD setup" class="w-full h-full object-cover transition-opacity duration-300" id="main-slide-img" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<!-- Gradient Scrim for Content Readability -->
+<div class="absolute inset-0 bg-gradient-to-t from-primary-container/90 via-primary-container/20 to-transparent"></div>
+<!-- Slide Counter Badge in glass pill top right -->
+<div class="absolute top-6 right-6 px-4 py-1.5 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary font-label-md text-label-md flex items-center gap-1.5">
+<span class="material-symbols-outlined text-[16px] text-tertiary-fixed">image</span>
+<span id="slide-counter">01 / 05</span>
+</div>
+<!-- Glass Caption Card at bottom left -->
+<div class="absolute bottom-8 left-6 md:left-10 max-w-lg p-5 rounded-2xl bg-primary-container/80 backdrop-blur-xl text-on-primary shadow-lg">
+<div class="flex items-center gap-2 mb-1.5">
+<span class="px-2 py-0.5 rounded bg-tertiary-fixed text-on-tertiary-fixed font-label-sm text-label-sm">Station 01</span>
+<span class="font-label-sm text-label-sm text-surface-container-highest">Karachi Sector 15</span>
+</div>
+<span class="block font-title-lg text-title-lg text-tertiary-fixed font-semibold" id="slide-title">Cutting Department — Automated CAD Precision Spreading &amp; Cutting</span>
+<p class="font-body-sm text-body-sm text-surface-container-high mt-1" id="slide-desc">Computerized pattern nesting algorithms minimizing fabric waste below 12% across jersey and heavyweight fleece.</p>
+</div>
+<!-- Arrow Controls -->
+<div class="absolute inset-y-0 left-4 flex items-center">
+<button aria-label="Previous Slide" class="w-12 h-12 rounded-full bg-surface-container-lowest/25 hover:bg-surface-container-lowest/40 backdrop-blur-md text-on-primary flex items-center justify-center transition-all duration-200" id="slider-prev">
+<span class="material-symbols-outlined text-[24px]">chevron_left</span>
+</button>
+</div>
+<div class="absolute inset-y-0 right-4 flex items-center">
+<button aria-label="Next Slide" class="w-12 h-12 rounded-full bg-surface-container-lowest/25 hover:bg-surface-container-lowest/40 backdrop-blur-md text-on-primary flex items-center justify-center transition-all duration-200" id="slider-next">
+<span class="material-symbols-outlined text-[24px]">chevron_right</span>
+</button>
+</div>
+<!-- Pagination Dots -->
+<div class="absolute bottom-3 right-6 md:right-10 flex items-center gap-2">
+<span class="slider-dot w-6 h-2 rounded-full bg-secondary-container transition-all"></span>
+<span class="slider-dot w-2 h-2 rounded-full bg-surface-container-lowest/50 hover:bg-surface-container-lowest transition-all"></span>
+<span class="slider-dot w-2 h-2 rounded-full bg-surface-container-lowest/50 hover:bg-surface-container-lowest transition-all"></span>
+<span class="slider-dot w-2 h-2 rounded-full bg-surface-container-lowest/50 hover:bg-surface-container-lowest transition-all"></span>
+<span class="slider-dot w-2 h-2 rounded-full bg-surface-container-lowest/50 hover:bg-surface-container-lowest transition-all"></span>
+</div>
+<!-- Progress Bar Along Bottom -->
+<div class="absolute bottom-0 left-0 right-0 h-1 bg-surface-container-lowest/20">
+<div class="h-full bg-tertiary-fixed w-1/5 transition-all duration-300" id="slide-progress"></div>
+</div>
+</div>
+</div>
+</section>
+<!-- 5. IMAGES AREA (Gallery - "A closer look") -->
+<section class="w-full py-20 bg-surface-container-low">
+<div class="max-w-7xl mx-auto px-6 lg:px-12 flex flex-col gap-8">
+<div class="flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+<div>
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Industrial Scrutiny</span>
+<h2 class="font-headline-lg text-headline-lg text-primary tracking-tight mt-1">A closer look</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1">Quality controls, sewing lines, and textile craftsmanship.</p>
+</div>
+<a class="inline-flex items-center gap-2 text-secondary hover:text-primary font-title-md text-title-md transition-colors group self-start sm:self-auto" data-path="capabilities" href="#">
+<span>View full gallery</span>
+<span class="material-symbols-outlined text-[18px] transition-transform duration-200 group-hover:translate-x-1">arrow_forward</span>
+</a>
+</div>
+<!-- Bento-style Image Grid -->
+<div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-5 auto-rows-[220px]">
+<!-- Tile 1 (Large - 2 cols, 2 rows) -->
+<div class="md:col-span-2 md:row-span-2 relative rounded-2xl overflow-hidden shadow-md group">
+<img alt="Fabric inspection line" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary-container/90 via-primary/30 to-transparent opacity-90 group-hover:opacity-100 transition-opacity"></div>
+<div class="absolute top-4 right-4 w-9 h-9 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[20px]">zoom_in</span>
+</div>
+<div class="absolute bottom-5 left-5 right-5 text-on-primary">
+<span class="px-2.5 py-0.5 rounded-full bg-secondary-container text-on-primary font-label-sm text-label-sm mb-2 inline-block">Primary Protocol</span>
+<span class="block font-headline-sm text-headline-sm text-tertiary-fixed">Fabric Inspection &amp; Shrinkage Analysis</span>
+<p class="font-body-sm text-body-sm text-surface-container-highest mt-1">Standardized 4-point inspection system assessing GSM tolerance, skewness, and colorfastness before laying.</p>
+</div>
+</div>
+<!-- Tile 2 (Tall - 1 col, 2 rows) -->
+<div class="relative rounded-2xl overflow-hidden shadow-md group md:row-span-2">
+<img alt="Overlock seaming station" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary-container/90 via-primary/40 to-transparent opacity-90 group-hover:opacity-100 transition-opacity"></div>
+<div class="absolute top-4 right-4 w-9 h-9 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[20px]">zoom_in</span>
+</div>
+<div class="absolute bottom-5 left-5 right-5 text-on-primary">
+<span class="block font-title-lg text-title-lg text-tertiary-fixed">Overlock Seaming</span>
+<p class="font-body-sm text-body-sm text-surface-container-highest mt-1">High-precision differential feed machines maintaining tension-free elasticity.</p>
+</div>
+</div>
+<!-- Tile 3 (1 col, 1 row) -->
+<div class="relative rounded-2xl overflow-hidden shadow-md group">
+<img alt="Finishing and steam press tables" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary-container/90 via-primary/30 to-transparent opacity-90 group-hover:opacity-100 transition-opacity"></div>
+<div class="absolute top-4 right-4 w-8 h-8 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[18px]">zoom_in</span>
+</div>
+<div class="absolute bottom-4 left-4 right-4 text-on-primary">
+<span class="block font-title-md text-title-md text-tertiary-fixed">Finishing &amp; Steam Press</span>
+<p class="font-body-sm text-body-sm text-surface-container-highest truncate">Vacuum suction pressing tables for crease recovery.</p>
+</div>
+</div>
+<!-- Tile 4 (1 col, 1 row) -->
+<div class="relative rounded-2xl overflow-hidden shadow-md group">
+<img alt="Packaging and poly-bag station" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-t from-primary-container/90 via-primary/30 to-transparent opacity-90 group-hover:opacity-100 transition-opacity"></div>
+<div class="absolute top-4 right-4 w-8 h-8 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[18px]">zoom_in</span>
+</div>
+<div class="absolute bottom-4 left-4 right-4 text-on-primary">
+<span class="block font-title-md text-title-md text-tertiary-fixed">Labeling &amp; Poly-pack</span>
+<p class="font-body-sm text-body-sm text-surface-container-highest truncate">Automated barcoding &amp; OPA moisture barrier packing.</p>
+</div>
+</div>
+<!-- Tile 5 (Wide - 2 cols, 1 row) -->
+<div class="md:col-span-3 lg:col-span-4 relative rounded-2xl overflow-hidden shadow-md group">
+<img alt="Yarn quality lab verification" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+<div class="absolute inset-0 bg-gradient-to-r from-primary-container/95 via-primary-container/70 to-transparent"></div>
+<div class="absolute top-4 right-4 w-8 h-8 rounded-full bg-surface-container-lowest/20 backdrop-blur-md text-on-primary flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity">
+<span class="material-symbols-outlined text-[18px]">zoom_in</span>
+</div>
+<div class="absolute inset-y-0 left-6 flex flex-col justify-center max-w-xl text-on-primary">
+<span class="font-label-sm text-label-sm text-tertiary-fixed uppercase tracking-wider">In-House Laboratory</span>
+<span class="block font-headline-sm text-headline-sm text-on-primary mt-1">Yarn Quality Lab &amp; Color Spectrometry</span>
+<p class="font-body-sm text-body-sm text-surface-container-high mt-1">Tensile strength, yarn count verification, and Datacolor optical calibration for Pantone TCX consistency across production lots.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 6. PRODUCT RANGE ("A full knitted product range") -->
+<section class="w-full py-24 bg-background">
+<div class="max-w-7xl mx-auto px-6 lg:px-12 flex flex-col gap-12">
+<div class="flex flex-col md:flex-row md:items-end justify-between gap-6">
+<div>
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Catalog &amp; Capabilities</span>
+<h2 class="font-headline-lg text-headline-lg text-primary tracking-tight mt-1">A full knitted product range</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-1.5 max-w-2xl">
+            Contract manufacturing tailored for high-volume retail programs. Customizable fabrications, specialty washes, and certified yarn blends.
+          </p>
+</div>
+<div class="flex items-center gap-2">
+<span class="px-3 py-1.5 rounded-lg bg-surface-container text-primary font-label-md text-label-md">FOB Karachi</span>
+<span class="px-3 py-1.5 rounded-lg bg-surface-container text-secondary font-label-md text-label-md">CIF Western Ports</span>
+</div>
+</div>
+<!-- 9 Category Cards Grid -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+<!-- Card 1 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">dry_cleaning</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Hoodies &amp; Sweatshirts</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Brushed fleece, French terry, and loopback. Double-stitched seams with custom drawcords and branded metal aglets.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">280–450 GSM</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">100% Combed Cotton</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">CVC Blends</span>
+</div>
+</div>
+<!-- Card 2 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">checkroom</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Blazers &amp; Soft Knitted Jackets</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Structured unlined casual blazers with shape-retentive Milano rib knit and premium horn-look buttons.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">120G / 140G Gauge</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Structured Interlock</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Milano Rib</span>
+</div>
+</div>
+<!-- Card 3 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">footprint</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Technical &amp; Everyday Socks</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              High-needle crew, ankle, and compression athletic socks. Reinforced heel cushions and hand-linked seamless toes.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">168 / 200 Needle</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Mercerized Cotton</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">CoolMax®</span>
+</div>
+</div>
+<!-- Card 4 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">accessibility_new</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Leggings &amp; Performance Tights</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Non-sheer 4-way stretch squat-proof leggings. Flatlock anti-chafing seams and moisture-wicking antimicrobial finishes.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">220–320 GSM</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">4-Way Stretch</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Nylon-Spandex</span>
+</div>
+</div>
+<!-- Card 5 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">sports_gymnastics</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Tracksuits &amp; Loungewear Sets</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Coordinated zip jackets and jogger pants with elasticated waistbands, custom metal zippers, and deep welt pockets.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Brushed Back</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Heavy Loopback</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Dyed Drawcords</span>
+</div>
+</div>
+<!-- Card 6 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">snowboarding</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Caps &amp; Knitted Headwear</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Ribbed cuff beanies, jacquard patterned winter hats, and lightweight seamless skullies tailored for cold-weather retail.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">7GG / 9GG</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Merino Wool Blend</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Recycled Acrylic</span>
+</div>
+</div>
+<!-- Card 7 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">bed</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Pyjamas &amp; Sleepwear</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Silky-soft organic sleepwear, buttoned sleep shirts, and relaxed lounge shorts with ultra-low pill ratings.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">160–210 GSM</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Modal-Cotton</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Organic Jersey</span>
+</div>
+</div>
+<!-- Card 8 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">apparel</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Polo Shirts</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Classic and modern cut piqué polos with anti-curl flat-knit collars, mother-of-pearl buttons, and side-slit hems.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">200–240 GSM</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Cotton Piqué</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Jacquard Collars</span>
+</div>
+</div>
+<!-- Card 9 -->
+<div class="p-6 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-xl hover:translate-y-[-2px] transition-all duration-200 flex flex-col justify-between">
+<div>
+<div class="w-12 h-12 rounded-xl bg-surface-container flex items-center justify-center text-primary mb-4">
+<span class="material-symbols-outlined text-[26px]">styler</span>
+</div>
+<span class="font-title-lg text-title-lg text-primary block">Henleys &amp; Casual Tops</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant mt-2 leading-relaxed">
+              Textured waffle and slub jersey button henleys. Enzyme washed for soft hand-feel and pre-shrunk for dimensional stability.
+            </p>
+</div>
+<div class="mt-6 pt-4 border-t border-surface-container flex flex-wrap gap-2">
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">180–250 GSM</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Waffle Knit</span>
+<span class="px-2.5 py-1 rounded-full bg-surface-container-low text-primary font-label-sm text-label-sm">Slub Cotton</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 7. PROCESS ("Sampling, cutting, stitching, finishing.") -->
+<section class="w-full py-24 bg-background">
+<div class="max-w-7xl mx-auto px-6 lg:px-12">
+<div class="rounded-3xl bg-primary-container text-on-primary p-8 md:p-14 shadow-2xl relative overflow-hidden">
+<!-- Subtle Glow Circle -->
+<div class="absolute -right-32 -top-32 w-96 h-96 rounded-full bg-secondary-container/30 blur-3xl pointer-events-none"></div>
+<div class="relative z-10 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+<!-- Process Left Column -->
+<div class="lg:col-span-7 flex flex-col gap-6">
+<span class="font-label-sm text-label-sm text-tertiary-fixed uppercase tracking-widest">Quality Assurance Architecture</span>
+<h2 class="font-headline-lg text-headline-lg text-on-primary tracking-tight">
+              Sampling, cutting, stitching, finishing.
+            </h2>
+<p class="font-body-md text-body-md text-surface-container-high leading-relaxed">
+              A disciplined, stage-gated production pipeline built for high repeatability, exact spec sheet compliance, and transparent milestone tracking from raw yarn arrival to ocean container seals.
+            </p>
+<!-- 4-step Timeline -->
+<div class="flex flex-col gap-6 mt-4">
+<!-- Step 1 -->
+<div class="flex items-start gap-4">
+<div class="w-9 h-9 rounded-full bg-tertiary-fixed text-on-tertiary-fixed flex items-center justify-center font-title-md text-title-md shrink-0">1</div>
+<div>
+<span class="block font-title-md text-title-md text-on-primary">Rapid Prototyping &amp; Tech Pack Sampling</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest mt-0.5 block">7–10 days turnaround, lab dips, Pantone TCX color matching, and full pattern grading.</span>
+</div>
+</div>
+<!-- Step 2 -->
+<div class="flex items-start gap-4">
+<div class="w-9 h-9 rounded-full bg-tertiary-fixed text-on-tertiary-fixed flex items-center justify-center font-title-md text-title-md shrink-0">2</div>
+<div>
+<span class="block font-title-md text-title-md text-on-primary">Precision Laser &amp; CAD Fabric Cutting</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest mt-0.5 block">Automated marker nesting achieving &gt;88% yield efficiency with minimal tension laying.</span>
+</div>
+</div>
+<!-- Step 3 -->
+<div class="flex items-start gap-4">
+<div class="w-9 h-9 rounded-full bg-tertiary-fixed text-on-tertiary-fixed flex items-center justify-center font-title-md text-title-md shrink-0">3</div>
+<div>
+<span class="block font-title-md text-title-md text-on-primary">High-Speed Modular Stitching Lines</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest mt-0.5 block">In-line quality controllers stationed every 5 machines to catch tension flaws instantly.</span>
+</div>
+</div>
+<!-- Step 4 -->
+<div class="flex items-start gap-4">
+<div class="w-9 h-9 rounded-full bg-tertiary-fixed text-on-tertiary-fixed flex items-center justify-center font-title-md text-title-md shrink-0">4</div>
+<div>
+<span class="block font-title-md text-title-md text-on-primary">100% Metal Detection, Steam Press &amp; Export Packing</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest mt-0.5 block">Continuous tunnel steaming, 9-point needle scan, silica desiccant, sea-worthy pallets.</span>
+</div>
+</div>
+</div>
+<div class="pt-4">
+<a class="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-tertiary-fixed text-on-tertiary-fixed font-title-md text-title-md hover:bg-tertiary-fixed-dim transition-all" data-path="services" href="#">
+<span>Our OEM / ODM Services</span>
+<span class="material-symbols-outlined text-[18px]">arrow_forward</span>
+</a>
+</div>
+</div>
+<!-- Process Right Photo Window -->
+<div class="lg:col-span-5 relative">
+<div class="rounded-2xl overflow-hidden shadow-2xl bg-on-background/50">
+<img alt="Factory inspection station" class="w-full h-96 object-cover" src="https://lh3.googleusercontent.com/aida/AEtjO1VaAn0sjZ8IX7bEGQek4eXzGQkOlax5nsiVqYxEkokHVQCXdPxUcA3QeyGCPzDSL-rj-zXcNJC8WX5RWOLFw-o3AAiVcsvxBWTAlz3eiGw4ixGnWG-k93pqBc44tKM4jItBZ3FmM0ppPM3WqScvje_EbAc7S1dSyuVLiGApTD1IHcSpdHBZW1a8z5c0BCtAagbnTTj0aQeNLo_pk0ZmWwBkZHDO-R9q4lAihOAXWj58PXXw3tEcp-sEtw"/>
+</div>
+<div class="absolute -bottom-5 -left-5 p-4 rounded-xl bg-on-background/80 backdrop-blur-md shadow-xl text-on-primary flex items-center gap-3">
+<div class="w-9 h-9 rounded-lg bg-tertiary-fixed/20 flex items-center justify-center text-tertiary-fixed">
+<span class="material-symbols-outlined text-[20px]">verified</span>
+</div>
+<div>
+<span class="block font-title-md text-title-md text-tertiary-fixed">AQL 1.0 Final Audit Guarantee</span>
+<span class="font-body-sm text-body-sm text-surface-container-highest">Zero toleration for unsanctioned needle flaws</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 8. RECENT CUSTOMERS -->
+<section class="w-full py-20 bg-surface-container-low">
+<div class="max-w-7xl mx-auto px-6 lg:px-12 flex flex-col gap-10">
+<div class="flex flex-col items-center text-center max-w-3xl mx-auto">
+<span class="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Global Relationships</span>
+<h2 class="font-headline-lg text-headline-lg text-primary tracking-tight mt-1">
+          Trusted by Global Retail Brands &amp; Fashion Distributors
+        </h2>
+<p class="font-body-md text-body-md text-on-surface-variant mt-2">
+          Supplying private-label apparel programs across major international consumer markets with strict confidentiality and repeatable precision.
+        </p>
+</div>
+<!-- Partner Cards Grid -->
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-5">
+<div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-all flex flex-col justify-between">
+<div class="flex items-center justify-between mb-4">
+<div class="w-9 h-9 rounded-lg bg-surface-container flex items-center justify-center text-primary font-bold">FR</div>
+<span class="px-2 py-0.5 rounded bg-surface-container text-primary font-label-sm text-label-sm">Active • 6 yrs</span>
+</div>
+<div>
+<span class="font-title-md text-title-md text-primary block">Parisian Label</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant block mt-0.5">France Retail Partner</span>
+</div>
+<div class="mt-4 pt-3 border-t border-surface-container flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Volume</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">18k Units/mo</span>
+</div>
+</div>
+<div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-all flex flex-col justify-between">
+<div class="flex items-center justify-between mb-4">
+<div class="w-9 h-9 rounded-lg bg-surface-container flex items-center justify-center text-primary font-bold">UK</div>
+<span class="px-2 py-0.5 rounded bg-surface-container text-primary font-label-sm text-label-sm">Active • 9 yrs</span>
+</div>
+<div>
+<span class="font-title-md text-title-md text-primary block">London Apparel</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant block mt-0.5">UK High-Street Chain</span>
+</div>
+<div class="mt-4 pt-3 border-t border-surface-container flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Volume</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">35k Units/mo</span>
+</div>
+</div>
+<div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-all flex flex-col justify-between">
+<div class="flex items-center justify-between mb-4">
+<div class="w-9 h-9 rounded-lg bg-surface-container flex items-center justify-center text-primary font-bold">US</div>
+<span class="px-2 py-0.5 rounded bg-surface-container text-primary font-label-sm text-label-sm">Active • 4 yrs</span>
+</div>
+<div>
+<span class="font-title-md text-title-md text-primary block">NY Knit Co.</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant block mt-0.5">US Contemporary Brand</span>
+</div>
+<div class="mt-4 pt-3 border-t border-surface-container flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Volume</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">25k Units/mo</span>
+</div>
+</div>
+<div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-all flex flex-col justify-between">
+<div class="flex items-center justify-between mb-4">
+<div class="w-9 h-9 rounded-lg bg-surface-container flex items-center justify-center text-primary font-bold">ES</div>
+<span class="px-2 py-0.5 rounded bg-surface-container text-primary font-label-sm text-label-sm">Active • 7 yrs</span>
+</div>
+<div>
+<span class="font-title-md text-title-md text-primary block">Iberian Fashion</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant block mt-0.5">Spain Distribution</span>
+</div>
+<div class="mt-4 pt-3 border-t border-surface-container flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Volume</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">20k Units/mo</span>
+</div>
+</div>
+<div class="p-5 rounded-2xl bg-surface-container-lowest shadow-sm hover:shadow-md transition-all flex flex-col justify-between">
+<div class="flex items-center justify-between mb-4">
+<div class="w-9 h-9 rounded-lg bg-surface-container flex items-center justify-center text-primary font-bold">EU</div>
+<span class="px-2 py-0.5 rounded bg-surface-container text-primary font-label-sm text-label-sm">Active • 3 yrs</span>
+</div>
+<div>
+<span class="font-title-md text-title-md text-primary block">Nordic Retailer</span>
+<span class="font-body-sm text-body-sm text-on-surface-variant block mt-0.5">Activewear &amp; Loungewear</span>
+</div>
+<div class="mt-4 pt-3 border-t border-surface-container flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">Volume</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">12k Units/mo</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 9. FINAL CTA BAND -->
+<section class="w-full py-20 bg-background">
+<div class="max-w-7xl mx-auto px-6 lg:px-12">
+<div class="rounded-3xl bg-gradient-to-r from-primary-container via-primary to-secondary-container p-10 md:p-16 text-on-primary shadow-2xl relative overflow-hidden flex flex-col items-center text-center gap-8">
+<!-- Subtle Glow Layer -->
+<div class="absolute inset-0 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-tertiary-fixed/15 via-transparent to-transparent pointer-events-none"></div>
+<div class="relative z-10 max-w-3xl flex flex-col gap-4">
+<span class="inline-flex items-center justify-center self-center px-3.5 py-1 rounded-full bg-surface-container-lowest/15 backdrop-blur-md text-tertiary-fixed font-label-sm text-label-sm uppercase tracking-wider">
+            Direct Mill Inquiries
+          </span>
+<h2 class="font-headline-lg text-headline-lg text-on-primary tracking-tight">
+            Ready to start your next order?
+          </h2>
+<p class="font-body-lg text-body-lg text-surface-container-high leading-relaxed">
+            Connect with our export desk for quick turnarounds, custom GSM fabrications, and competitive FOB/CIF quotation. Send your tech pack or request physical yarn and fabric swatch cards.
+          </p>
+</div>
+<div class="relative z-10 flex flex-wrap items-center justify-center gap-4">
+<a class="px-8 py-3.5 rounded-xl bg-surface-container-lowest text-primary font-title-md text-title-md hover:bg-tertiary-fixed hover:text-on-tertiary-fixed shadow-lg hover:shadow-cyan-400/30 transition-all duration-200" data-path="request-quote" href="#">
+            Request a Quote
+          </a>
+<a class="px-8 py-3.5 rounded-xl bg-surface-container-lowest/10 hover:bg-surface-container-lowest/20 backdrop-blur-md text-on-primary font-title-md text-title-md transition-all duration-200" data-path="contact" href="#">
+            Schedule Factory Virtual Tour
+          </a>
+</div>
+<div class="relative z-10 flex flex-wrap items-center justify-center gap-8 pt-6 border-t border-surface-container-lowest/15 text-surface-container-high font-body-sm text-body-sm">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[18px]">timer</span>
+<span>Average RFQ Response &lt; 24 Hours</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[18px]">sailing</span>
+<span>FOB Karachi / CIF Major Ports</span>
+</div>
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-tertiary-fixed text-[18px]">tune</span>
+<span>Flexible MOQ Starting 1,000 Pcs/Style</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<script>
+  // Simple interactive factory slider logic
+  (function() {
+    const slides = [
+      {
+        title: "Cutting Department — Automated CAD Precision Spreading & Cutting",
+        desc: "Computerized pattern nesting algorithms minimizing fabric waste below 12% across jersey and heavyweight fleece.",
+        counter: "01 / 05"
+      },
+      {
+        title: "High-Speed Circular Knitting Floor",
+        desc: "Precision German needles maintaining flawless gauge consistency across single jersey, interlock, and French terry.",
+        counter: "02 / 05"
+      },
+      {
+        title: "Computerized Sewing & Overlock Line",
+        desc: "45 synchronized sewing operators producing 3,500 finished garments per working shift with automated thread trims.",
+        counter: "03 / 05"
+      },
+      {
+        title: "Continuous Steam Tunnel Finishing",
+        desc: "Steam relaxation chambers stabilizing fabric dimensional changes before entering poly-bag barcoding stations.",
+        counter: "04 / 05"
+      },
+      {
+        title: "In-House Quality Audit & Needle Scan",
+        desc: "100% garment inspection protocol preventing foreign metal contaminants prior to seaworthy master carton packing.",
+        counter: "05 / 05"
+      }
+    ];
+
+    let current = 0;
+    const titleEl = document.getElementById('slide-title');
+    const descEl = document.getElementById('slide-desc');
+    const counterEl = document.getElementById('slide-counter');
+    const progressEl = document.getElementById('slide-progress');
+    const dots = document.querySelectorAll('.slider-dot');
+    const prevBtn = document.getElementById('slider-prev');
+    const nextBtn = document.getElementById('slider-next');
+
+    function updateSlide(index) {
+      current = (index + slides.length) % slides.length;
+      if (titleEl) titleEl.textContent = slides[current].title;
+      if (descEl) descEl.textContent = slides[current].desc;
+      if (counterEl) counterEl.textContent = slides[current].counter;
+      if (progressEl) progressEl.style.width = ((current + 1) / slides.length * 100) + '%';
+
+      dots.forEach((dot, idx) => {
+        if (idx === current) {
+          dot.className = 'slider-dot w-6 h-2 rounded-full bg-secondary-container transition-all';
+        } else {
+          dot.className = 'slider-dot w-2 h-2 rounded-full bg-surface-container-lowest/50 hover:bg-surface-container-lowest transition-all';
+        }
+      });
+    }
+
+    if (prevBtn) prevBtn.addEventListener('click', () => updateSlide(current - 1));
+    if (nextBtn) nextBtn.addEventListener('click', () => updateSlide(current + 1));
+    dots.forEach((dot, idx) => {
+      dot.addEventListener('click', () => updateSlide(idx));
+    });
+  })();
+</script></main><footer class="w-full rounded-t-[32px] bg-gradient-to-b from-primary-container via-primary to-inverse-surface text-on-primary pt-16 pb-8 shadow-[0_-8px_32px_rgba(34,211,238,0.15)] relative overflow-hidden"><div class="absolute top-0 left-0 right-0 h-[2px] bg-gradient-to-r from-transparent via-tertiary-fixed to-transparent opacity-80"></div><div class="max-w-7xl mx-auto px-6 lg:px-12"><div class="flex flex-col lg:flex-row items-start lg:items-center justify-between pb-12 gap-8"><div class="flex flex-col sm:flex-row items-start sm:items-center gap-6"><img alt="KZ Hosiery Ocean Breeze Logo" class="h-12 w-auto object-contain brightness-0 invert" src="https://lh3.googleusercontent.com/aida/AEtjO1XYpy9wKYSci3Enkxuese1tH49uQ90lg6MJcpaOXT5AkAvKCuGXhVp2j65Dfnd36aYSDDQN0pjAlOCB6v4zKp6cfQ3dZUKxo0A1tRoq-5a49w3RWBYWzuJj8USW4PNAHG-MqymifOTRsqnmoG55vp0wnZmDqK0wE4YoE6UAJOI_Rp6q-uO7PNk8__VqY_cxrxNzOQ-LijUUqWC9jTIbgaT4iBMtXkUN1Jiop4wqa4GZh5rHzGLhstV8AA"/><div class="max-w-md"><span class="block font-title-lg text-title-lg text-tertiary-fixed tracking-tight">KZ Hosiery (Pvt) Ltd.</span><p class="font-body-sm text-body-sm text-surface-container-highest mt-1">Knitwear manufacturing for global markets since 1987 • 100,000+ pieces monthly capacity.</p></div></div><div class="w-full lg:w-auto flex flex-col sm:flex-row items-center gap-3 bg-surface-container-lowest/10 p-2 rounded-2xl backdrop-blur-md"><input class="w-full sm:w-72 px-4 py-2.5 rounded-xl bg-surface-container-lowest/15 text-on-primary placeholder:text-surface-container-highest font-body-sm text-body-sm focus:outline-none focus:ring-2 focus:ring-tertiary-fixed" placeholder="Enter business email for RFQ" type="email"/><a class="w-full sm:w-auto px-6 py-2.5 rounded-xl bg-tertiary-fixed text-on-tertiary-fixed font-label-md text-label-md hover:bg-tertiary-fixed-dim transition-all text-center shrink-0 shadow-[0_0_16px_rgba(162,238,255,0.35)]" data-path="request-quote" href="#">Get in touch</a></div></div><div class="py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10"><div class="flex flex-col gap-4"><span class="font-title-md text-title-md text-tertiary-fixed tracking-wide uppercase">About Us</span><p class="font-body-sm text-body-sm text-surface-container-highest leading-relaxed">Over 38 years of high-precision knitwear and apparel manufacturing rooted in Karachi, Pakistan. Engineering certified jersey, fleece, and knitted garments for premiere global retailers across Europe and North America.</p><div class="flex items-center gap-2 mt-2"><span class="material-symbols-outlined text-tertiary-fixed text-[18px]">verified</span><span class="font-label-sm text-label-sm text-surface-container-highest">OEKO-TEX • WRAP • SEDEX Compliant</span></div></div><div class="flex flex-col gap-4"><span class="font-title-md text-title-md text-tertiary-fixed tracking-wide uppercase">Quick Links</span><ul class="flex flex-col gap-2.5 font-body-sm text-body-sm text-surface-container-highest"><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="home" href="#">Home</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="about" href="#">About KZ Hosiery</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="services" href="#">OEM &amp; ODM Services</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Factory Capabilities</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="contact" href="#">Contact &amp; Inquiries</a></li></ul></div><div class="flex flex-col gap-4"><span class="font-title-md text-title-md text-tertiary-fixed tracking-wide uppercase">Products</span><ul class="grid grid-cols-2 gap-2.5 font-body-sm text-body-sm text-surface-container-highest"><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Hoodies</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Socks</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Leggings</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Tracksuits</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Pyjamas</a></li><li class="flex items-center"><a class="hover:text-tertiary-fixed transition-colors" data-path="capabilities" href="#">Polo Shirts</a></li></ul></div><div class="flex flex-col gap-4"><span class="font-title-md text-title-md text-tertiary-fixed tracking-wide uppercase">Trade Contact</span><div class="flex flex-col gap-3 font-body-sm text-body-sm text-surface-container-highest"><div class="flex items-start gap-2.5"><span class="material-symbols-outlined text-tertiary-fixed text-[18px] shrink-0 mt-0.5">location_on</span><span>Sector 15, Korangi Industrial Area, Karachi, Pakistan</span></div><div class="flex items-center gap-2.5"><span class="material-symbols-outlined text-tertiary-fixed text-[18px] shrink-0">mail</span><a class="hover:text-tertiary-fixed transition-colors" href="mailto:trade@kzhosiery.com">trade@kzhosiery.com</a></div><div class="flex items-center gap-2.5"><span class="material-symbols-outlined text-tertiary-fixed text-[18px] shrink-0">call</span><span>+92 21 3505 1234</span></div><div class="flex items-center gap-2.5"><span class="material-symbols-outlined text-tertiary-fixed text-[18px] shrink-0">schedule</span><span>Mon - Sat 08:30 - 18:00 PKT</span></div></div></div></div><div class="py-6 flex flex-col md:flex-row items-center justify-between gap-6"><div class="flex flex-wrap items-center gap-3"><span class="font-label-sm text-label-sm text-tertiary-fixed uppercase tracking-wider">Export Markets:</span><span class="px-3 py-1 rounded-full bg-surface-container-lowest/10 backdrop-blur-md text-surface-container-highest font-label-sm text-label-sm">France</span><span class="px-3 py-1 rounded-full bg-surface-container-lowest/10 backdrop-blur-md text-surface-container-highest font-label-sm text-label-sm">United Kingdom</span><span class="px-3 py-1 rounded-full bg-surface-container-lowest/10 backdrop-blur-md text-surface-container-highest font-label-sm text-label-sm">USA</span><span class="px-3 py-1 rounded-full bg-surface-container-lowest/10 backdrop-blur-md text-surface-container-highest font-label-sm text-label-sm">Spain</span></div><div class="flex items-center gap-3"><a aria-label="LinkedIn" class="w-10 h-10 rounded-full bg-surface-container-lowest/10 flex items-center justify-center text-on-primary hover:text-tertiary-fixed hover:bg-surface-container-lowest/20 hover:shadow-[0_0_12px_rgba(34,211,238,0.6)] transition-all duration-200" href="#"><span class="material-symbols-outlined text-[20px]">hub</span></a><a aria-label="Instagram" class="w-10 h-10 rounded-full bg-surface-container-lowest/10 flex items-center justify-center text-on-primary hover:text-tertiary-fixed hover:bg-surface-container-lowest/20 hover:shadow-[0_0_12px_rgba(34,211,238,0.6)] transition-all duration-200" href="#"><span class="material-symbols-outlined text-[20px]">photo_camera</span></a><a aria-label="Facebook" class="w-10 h-10 rounded-full bg-surface-container-lowest/10 flex items-center justify-center text-on-primary hover:text-tertiary-fixed hover:bg-surface-container-lowest/20 hover:shadow-[0_0_12px_rgba(34,211,238,0.6)] transition-all duration-200" href="#"><span class="material-symbols-outlined text-[20px]">public</span></a><a aria-label="WhatsApp" class="w-10 h-10 rounded-full bg-surface-container-lowest/10 flex items-center justify-center text-on-primary hover:text-tertiary-fixed hover:bg-surface-container-lowest/20 hover:shadow-[0_0_12px_rgba(34,211,238,0.6)] transition-all duration-200" href="#"><span class="material-symbols-outlined text-[20px]">chat</span></a></div></div><div class="pt-8 mt-2 flex flex-col sm:flex-row items-center justify-between gap-4 font-body-sm text-body-sm text-surface-container-highest"><p>© 2026 KZ Hosiery. All rights reserved.</p><div class="flex items-center gap-6"><a class="hover:text-tertiary-fixed transition-colors" data-path="privacy-policy" href="#">Privacy Policy</a><a class="hover:text-tertiary-fixed transition-colors" data-path="terms-of-trade" href="#">Terms of Trade</a></div></div></div></footer></body></html> 

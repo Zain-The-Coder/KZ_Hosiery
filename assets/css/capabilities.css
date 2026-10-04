@@ -1,0 +1,239 @@
+/* ==========================================================================
+   CAPABILITIES PAGE STYLES - REDESIGNED
+   ========================================================================== */
+
+/* 1. HERO SECTION */
+.cap-hero {
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+  background-color: var(--clr-surface);
+  position: relative;
+  overflow: hidden;
+}
+
+.cap-hero::before {
+  content: "";
+  position: absolute;
+  top: -10%;
+  right: -5%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(7, 2, 60, 0.05) 0%, rgba(255,255,255,0) 70%);
+  z-index: 0;
+  border-radius: 50%;
+}
+
+.cap-hero__container {
+  position: relative;
+  z-index: 1;
+}
+
+.cap-hero__content {
+  max-width: 800px;
+}
+
+.cap-hero__badge {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--clr-primary);
+  background: rgba(7, 2, 60, 0.08);
+  padding: 6px 14px;
+  border-radius: 20px;
+  margin-bottom: 1.5rem;
+}
+
+.cap-hero__title {
+  font-family: var(--ff-display);
+  font-size: 48px;
+  line-height: 1.1;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--clr-on-surface);
+  margin-bottom: 1.5rem;
+}
+
+.cap-hero__title span {
+  color: var(--clr-primary);
+}
+
+@media (min-width: 768px) {
+  .cap-hero__title {
+    font-size: 64px;
+  }
+}
+
+.cap-hero__desc {
+  font-family: var(--ff-body);
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--clr-on-surface-variant);
+  max-width: 600px;
+}
+
+/* 2. PROCESS STAGES */
+.cap-processes {
+  padding-block: 6rem;
+  background-color: #fcfcfc;
+}
+
+.process-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 3rem;
+  align-items: center;
+  margin-bottom: 8rem;
+}
+
+.process-card:last-child {
+  margin-bottom: 0;
+}
+
+@media (min-width: 992px) {
+  .process-card {
+    grid-template-columns: 1fr 1.2fr;
+    gap: 6rem;
+  }
+  
+  .process-card--reverse {
+    grid-template-columns: 1.2fr 1fr;
+  }
+  
+  .process-card--reverse .process-card__content {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  
+  .process-card--reverse .process-card__image-wrapper {
+    grid-column: 1;
+    grid-row: 1;
+  }
+}
+
+.process-card__content {
+  max-width: 480px;
+}
+
+.process-card__num {
+  font-family: var(--ff-display);
+  font-size: 80px;
+  line-height: 1;
+  font-weight: 800;
+  color: rgba(7, 2, 60, 0.06);
+  display: block;
+  margin-bottom: -1.5rem;
+  position: relative;
+  z-index: 0;
+}
+
+.process-card__title {
+  font-family: var(--ff-display);
+  font-size: 32px;
+  font-weight: 700;
+  color: var(--clr-on-surface);
+  margin-bottom: 1rem;
+  position: relative;
+  z-index: 1;
+}
+
+.process-card__desc {
+  font-family: var(--ff-body);
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--clr-on-surface-variant);
+}
+
+.process-card__image-wrapper {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+  aspect-ratio: 4 / 3;
+}
+
+.process-card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.5s ease;
+}
+
+.process-card__image-wrapper:hover .process-card__image {
+  transform: scale(1.05);
+}
+
+/* 3. FABRICS SECTION */
+.cap-fabrics {
+  background-color: var(--clr-primary);
+  color: #ffffff;
+  padding-block: 8rem;
+  margin-bottom: 3rem;
+  border-bottom-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+
+.cap-fabrics__header {
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 4rem;
+}
+
+.cap-fabrics__badge {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.7);
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.cap-fabrics__title {
+  font-family: var(--ff-display);
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.cap-fabrics__desc {
+  font-family: var(--ff-body);
+  font-size: 16px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.fabrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1.5rem;
+}
+
+.fabric-card {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.fabric-card:hover {
+  background: rgba(255, 255, 255, 0.1);
+  transform: translateY(-5px);
+  border-color: rgba(255, 255, 255, 0.3);
+}
+
+.fabric-card h3 {
+  font-family: var(--ff-display);
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+}
+
+.fabric-card p {
+  font-family: var(--ff-body);
+  font-size: 14px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.7);
+}
