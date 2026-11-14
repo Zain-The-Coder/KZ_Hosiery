@@ -82,10 +82,11 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 body {
-  overscroll-behavior: none;
+  overflow-x: hidden;
   font-family: var(--ff-body);
   font-size: 0.9375rem;   /* 15px – body-md */
   line-height: 1.5rem;     /* 24px */
@@ -746,10 +747,14 @@ input {
 }
 
 .footer__compliance {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   gap: 0.5rem;
-  margin-top: 0.5rem;
+  margin-top: 0.75rem;
+  padding: 0.35rem 0.75rem;
+  background-color: rgba(162, 238, 255, 0.12);
+  border: 1px solid rgba(162, 238, 255, 0.28);
+  border-radius: var(--radius-sm);
 }
 
 .footer__compliance .material-symbols-outlined {
@@ -758,10 +763,22 @@ input {
 }
 
 .footer__compliance span:last-child {
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.04em;
+  font-family: var(--ff-body);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: var(--clr-tertiary-fixed);
+  text-transform: uppercase;
+}
+
+.footer__compliance-text {
+  font-family: var(--ff-body);
+  font-size: 12px;
+  line-height: 18px;
   color: var(--clr-surface-container-highest);
+  opacity: 0.88;
+  margin-top: 0.5rem;
+  max-width: 320px;
 }
 
 /* Footer links */

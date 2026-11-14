@@ -175,3 +175,45 @@
   line-height: 24px;
   color: var(--clr-on-surface-variant);
 }
+
+
+/* ── BSCI Compliance Additions ── */
+.about-hero__compliance {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-top: 2rem;
+  padding: 1.25rem 1.5rem;
+  background-color: var(--clr-surface-container-low);
+  border-left: 4px solid #110659;
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  font-family: var(--ff-body);
+  font-size: 15px;
+  line-height: 24px;
+  color: var(--clr-on-surface);
+}
+
+.about-hero__compliance .material-symbols-outlined {
+  font-size: 26px;
+  color: #0058be;
+  flex-shrink: 0;
+  margin-top: 0.1rem;
+}
+
+.about-hero__compliance strong {
+  color: #110659;
+  font-weight: 700;
+}
+
+.value-card__badge-tag {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  border-radius: var(--radius-sm);
+  background-color: rgba(0, 88, 190, 0.1);
+  color: var(--clr-secondary);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+}

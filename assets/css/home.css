@@ -9,15 +9,18 @@
 .hero {
   position: relative;
   width: 100%;
-  margin-top: 30px;       /* tuck behind fixed navbar */
-  padding-top: 7rem;
+  margin-top: 0;
+  padding-top: 7.5rem;
   padding-bottom: 5rem;
   overflow: hidden;
   background-color: var(--clr-primary-container);
 }
 
 @media (min-width: 1024px) {
-  .hero { padding-bottom: 7rem; }
+  .hero {
+    padding-top: 8.5rem;
+    padding-bottom: 7rem;
+  }
 }
 
 /* ── Background layers ── */
@@ -25,26 +28,29 @@
   position: absolute;
   inset: 0;
   z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
 }
 
 .hero__bg-img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  object-position: center;
+  object-position: center 25%;
+  transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 .hero__overlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(
-    to right,
-    rgba(13, 71, 161, 0.75),
-    rgba(13, 71, 161, 0.55),
-    rgba(33, 112, 228, 0.35)
+    135deg,
+    rgba(7, 28, 50, 0.90) 0%,
+    rgba(13, 71, 161, 0.82) 50%,
+    rgba(0, 49, 120, 0.75) 100%
   );
-  -webkit-backdrop-filter: blur(1px);
-  backdrop-filter: blur(1px);
 }
 
 .hero__radial {
@@ -52,6 +58,17 @@
   inset: 0;
   background: radial-gradient(ellipse at top right, rgba(162, 238, 255, 0.2), transparent 60%);
   pointer-events: none;
+}
+
+.hero__fade-bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 5rem;
+  background: linear-gradient(to bottom, transparent, var(--clr-background));
+  pointer-events: none;
+  z-index: 1;
 }
 
 /* ── Hero Content ── */
@@ -287,6 +304,7 @@
 .hero__compliance {
   margin-top: 3.5rem;
   padding-top: 2rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -506,6 +524,71 @@
   letter-spacing: 0.04em;
   color: var(--clr-surface-container-lowest);
 }
+
+/* ── About Compliance Callout ── */
+.about__compliance-callout {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.25rem;
+  padding: 1.25rem 1.5rem;
+  margin-top: 1.75rem;
+  margin-bottom: 2rem;
+  background-color: var(--clr-surface-container-low);
+  border-left: 4px solid var(--clr-primary);
+  border-radius: 0 var(--radius-lg) var(--radius-lg) 0;
+  box-shadow: 0 4px 16px rgba(0, 49, 120, 0.05);
+}
+
+.about__compliance-icon {
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: var(--radius-md);
+  background-color: var(--clr-primary-fixed);
+  color: var(--clr-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.about__compliance-icon .material-symbols-outlined {
+  font-size: 26px;
+}
+
+.about__compliance-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.about__compliance-badge {
+  font-family: var(--ff-display);
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--clr-primary);
+  letter-spacing: -0.01em;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.about__compliance-badge::before {
+  content: '';
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--clr-secondary);
+}
+
+.about__compliance-text {
+  font-family: var(--ff-body);
+  font-size: 14px;
+  line-height: 22px;
+  color: var(--clr-on-surface-variant);
+  margin: 0;
+}
+
 
 /* ==========================================================================
    3. STATS STRIP
@@ -1082,6 +1165,298 @@
   text-overflow: ellipsis;
 }
 
+
+/* ==========================================================================
+   COMPANY CERTIFICATIONS & TRUST SECTION
+   ========================================================================== */
+.certifications {
+  padding-block: 6rem;
+  background-color: var(--clr-surface-container-lowest);
+  border-top: 1px solid rgba(0, 49, 120, 0.08);
+  border-bottom: 1px solid rgba(0, 49, 120, 0.08);
+}
+
+.certifications__header {
+  max-width: 48rem;
+  margin-bottom: 3.5rem;
+}
+
+.certifications__heading {
+  font-family: var(--ff-display);
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--clr-on-surface);
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 768px) {
+  .certifications__heading {
+    font-size: 40px;
+    line-height: 48px;
+  }
+}
+
+.certifications__subtitle {
+  font-family: var(--ff-body);
+  font-size: 16px;
+  line-height: 26px;
+  color: var(--clr-on-surface-variant);
+}
+
+/* Featured BSCI Hero Box */
+.certifications__featured-card {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+  padding: 2.5rem;
+  border-radius: var(--radius-2xl);
+  background: linear-gradient(135deg, var(--clr-primary) 0%, #052148 100%);
+  color: var(--clr-on-primary);
+  margin-bottom: 3rem;
+  box-shadow: 0 16px 40px rgba(0, 49, 120, 0.18);
+  position: relative;
+  overflow: hidden;
+}
+
+@media (min-width: 900px) {
+  .certifications__featured-card {
+    grid-template-columns: 1fr auto;
+    align-items: center;
+    padding: 3.5rem;
+  }
+}
+
+.certifications__featured-card::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(162, 238, 255, 0.12) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.certifications__featured-left {
+  position: relative;
+  z-index: 1;
+}
+
+.certifications__featured-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.35rem 0.85rem;
+  border-radius: var(--radius-full);
+  background: rgba(162, 238, 255, 0.18);
+  border: 1px solid rgba(162, 238, 255, 0.35);
+  color: var(--clr-tertiary-fixed);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  margin-bottom: 1.25rem;
+}
+
+.certifications__featured-badge .material-symbols-outlined {
+  font-size: 16px;
+}
+
+.certifications__featured-title {
+  font-family: var(--ff-display);
+  font-size: 32px;
+  line-height: 38px;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--clr-on-primary);
+  margin-bottom: 0.75rem;
+}
+
+@media (min-width: 768px) {
+  .certifications__featured-title {
+    font-size: 42px;
+    line-height: 48px;
+  }
+}
+
+.certifications__featured-desc {
+  font-family: var(--ff-body);
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 500;
+  color: var(--clr-surface-container-high);
+  max-width: 42rem;
+  margin-bottom: 2rem;
+}
+
+.certifications__featured-points {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.875rem;
+}
+
+@media (min-width: 640px) {
+  .certifications__featured-points {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.certifications__point {
+  display: flex;
+  align-items: center;
+  gap: 0.625rem;
+  font-family: var(--ff-body);
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--clr-surface-container-highest);
+}
+
+.certifications__point .material-symbols-outlined {
+  font-size: 18px;
+  color: var(--clr-tertiary-fixed);
+  flex-shrink: 0;
+}
+
+/* Seal on the right */
+.certifications__featured-right {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+}
+
+.certifications__seal {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  border: 2px dashed rgba(162, 238, 255, 0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+.certifications__seal:hover {
+  transform: scale(1.05) rotate(2deg);
+  border-color: var(--clr-tertiary-fixed);
+}
+
+.certifications__seal-icon {
+  font-size: 36px;
+  color: var(--clr-tertiary-fixed);
+  margin-bottom: 0.25rem;
+}
+
+.certifications__seal-title {
+  font-family: var(--ff-display);
+  font-size: 22px;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  color: var(--clr-on-primary);
+  line-height: 1;
+}
+
+.certifications__seal-sub {
+  font-family: var(--ff-body);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--clr-tertiary-fixed);
+  margin-top: 0.25rem;
+}
+
+.certifications__seal-audit {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  background: rgba(162, 238, 255, 0.15);
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--clr-on-primary);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* 4 Pillars Grid */
+.certifications__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .certifications__grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .certifications__grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.cert-card {
+  padding: 2rem 1.75rem;
+  border-radius: var(--radius-xl);
+  background-color: var(--clr-surface-container-low);
+  border: 1px solid rgba(0, 49, 120, 0.06);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.cert-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(0, 49, 120, 0.08);
+  border-color: rgba(0, 49, 120, 0.15);
+}
+
+.cert-card__icon {
+  width: 3rem;
+  height: 3rem;
+  border-radius: var(--radius-lg);
+  background-color: #ffffff;
+  color: var(--clr-primary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+  box-shadow: 0 4px 12px rgba(0, 49, 120, 0.06);
+}
+
+.cert-card__icon .material-symbols-outlined {
+  font-size: 24px;
+}
+
+.cert-card__title {
+  font-family: var(--ff-display);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--clr-on-surface);
+  margin-bottom: 0.625rem;
+}
+
+.cert-card__desc {
+  font-family: var(--ff-body);
+  font-size: 14px;
+  line-height: 22px;
+  color: var(--clr-on-surface-variant);
+  margin: 0;
+}
+
+
 /* ==========================================================================
    6. PRODUCT RANGE
    ========================================================================== */
@@ -1649,7 +2024,7 @@
    ========================================================================== */
 
 /* Prevent horizontal overflow */
-body {
+html, body {
   overflow-x: hidden;
 }
 
